@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Reactjs**
 
-- 👨‍💻 All of my projects are available at [rianotorresleyva.wordpress.com](rianotorresleyva.wordpress.com)
+- 👨‍💻 All of my projects are available at [marianotorresleyva.wordpress.com](marianotorresleyva.wordpress.com)
 
 - 📝 I regularly write articles on [serving101club.wordpress.com](serving101club.wordpress.com)
 
